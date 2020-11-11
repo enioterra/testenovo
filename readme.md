@@ -1,2 +1,6 @@
 Novo status alterado
-apos o commit
+
+testando a visualização de diffs
+
+
+bla bla bla bla
